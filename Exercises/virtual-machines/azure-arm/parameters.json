@@ -1,0 +1,92 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.1",
+    "parameters": {
+        "location": {
+            "value": "westeurope"
+        },
+        "networkInterfaceName": {
+            "value": "deleteme-vm335"
+        },
+        "networkSecurityGroupName": {
+            "value": "deleteme-vm-nsg"
+        },
+        "networkSecurityGroupRules": {
+            "value": [
+                {
+                    "name": "SSH",
+                    "properties": {
+                        "priority": 300,
+                        "protocol": "TCP",
+                        "access": "Allow",
+                        "direction": "Inbound",
+                        "sourceAddressPrefix": "*",
+                        "sourcePortRange": "*",
+                        "destinationAddressPrefix": "*",
+                        "destinationPortRange": "22"
+                    }
+                }
+            ]
+        },
+        "subnetName": {
+            "value": "default"
+        },
+        "virtualNetworkName": {
+            "value": "deleteme-rg-vnet"
+        },
+        "addressPrefixes": {
+            "value": [
+                "10.0.0.0/24"
+            ]
+        },
+        "subnets": {
+            "value": [
+                {
+                    "name": "default",
+                    "properties": {
+                        "addressPrefix": "10.0.0.0/24"
+                    }
+                }
+            ]
+        },
+        "publicIpAddressName": {
+            "value": "deleteme-vm-ipp"
+        },
+        "publicIpAddressType": {
+            "value": "Dynamic"
+        },
+        "publicIpAddressSku": {
+            "value": "Basic"
+        },
+        "virtualMachineName": {
+            "value": "deleteme-vm1"
+        },
+        "virtualMachineRG": {
+            "value": "deleteme-rg"
+        },
+        "osDiskType": {
+            "value": "StandardSSD_LRS"
+        },
+        "virtualMachineSize": {
+            "value": "Standard_B1s"
+        },
+        "adminUsername": {
+            "value": "decoder"
+        },
+        "adminPublicKey": {
+            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDKvHfS+X4kOf0trjbZGIY8Iht/Mx6K+65p4I4bK1r5eGT4hzsgR1HGW0voRT6xDwjTcUMp5UZM1c/gCvN+nFszzV1edKCXznNMHe7cqAe7vw+FLQ7YN1yl2GbQixBAc1l6VBQOXvyaWUWDS1oPVtfvG5a02qYTxXJ/e52iwoPd8yJsCiaQXBVAyx508xq4v7YxJALbHOMhNg8s0yd57ByrRc+wwgLe9kjzONC/mWPTRUqIZKB6cjtKDQzWhio0suCA9WggH4aDs/eiJeJDykdBFvwmf3rp8Yp0e7ZcgBEwvfT/bNuHHTJ1/iySTJx2v0CcMCk0iPm5EvALLOs7Yo1Ekfn6k8sb0qClfEpMf4MEg5N5tVdx5BbNMJO2f6Po5vdPOr+GaB8n+oiM8FGJoiump4trFjMPxdL2OfMQCtw3L2MvS+qUKGnD4NTlgF43ZxYS6tuoieQjHJf2NxK466RZd7SmEbCTI2YzSiQcvMpvYu5eQADno0uBCRkG0S/BBbAlUFfXagWTVXGlUVqk/3rlkIue7j+y99/I7FjMx9/Z2CSjQqLlKVtLd8i0YqpsqyApLJ82Eou/ESoQfmsTP2Bh5xZroyZN3kUUgBpOqV8e6Q8N3x3ggvnFt6lg0O6MGHtVFTQm50x7Sco2QcxgkNuFGqQ/6cZ85ZwYf2RchwPp0Q== decoder@DESKTOP-PR6E9IM"
+        },
+        "diagnosticsStorageAccountName": {
+            "value": "deletemergdiag143"
+        },
+        "diagnosticsStorageAccountId": {
+            "value": "Microsoft.Storage/storageAccounts/deletemergdiag143"
+        },
+        "diagnosticsStorageAccountType": {
+            "value": "Standard_LRS"
+        },
+        "diagnosticsStorageAccountKind": {
+            "value": "Storage"
+        }
+    }
+}
