@@ -4,8 +4,6 @@
 
 - [Section Documentation on Azure Docs](https://docs.microsoft.com/en-gb/azure/azure-monitor/)
 
-- [Exercises Folder](./monitoring)
-
 | Section | Status | Documentation
 | --- | --- | --- |
 | configure diagnostic settings on resources | Done | [Diagnostic settings](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings) |
@@ -26,7 +24,7 @@
 
 - [Section Documentation on Azure Docs](https://docs.microsoft.com/en-us/azure/storage/)
 
-- [Exercises Folder](./storage-create)
+- [Labs](https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs?storyId=story://995cacc5-0f7e-45fe-849a-d05bfd147fc8/)
 
 | Section | Status  | Documentation
 | --- | --- | --- |
@@ -44,8 +42,6 @@
 
 - [Section Documentation on Azure Docs](https://docs.microsoft.com/en-us/azure/virtual-machines/)
 
-- [Exercises Folder](./vm-create)
-
 | Section | Status | Documentation
 | --- | --- | --- |
 | configure high availability | Pending | [Linux High Availability](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/availability) |
@@ -57,7 +53,7 @@
 
 - [Section Documentation on Azure Docs](https://docs.microsoft.com/en-us/azure/virtual-machines/)
 
-- [Exercises Folder](./vm-create)
+- [Labs](https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs?storyId=story://a2a9a5bd-399b-4631-a44a-ef3b51250a65/)
 
 | Section | Status | Documentation
 | --- | --- | --- |
@@ -81,7 +77,7 @@
 
 - [Section Documentation on Azure Docs](https://docs.microsoft.com/en-us/azure/virtual-network/)
 
-- [Exercises Folder](./vnet-create)
+- [Labs](https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs?storyId=story://9922213a-f2ea-4ee4-a1b0-84330541e15d/)
 
 | Section | Status | Documentation
 | --- | --- | --- |
@@ -95,8 +91,6 @@
 
 - [Section Documentation on Azure Docs](https://docs.microsoft.com/en-us/azure/virtual-network/)
 
-- [Exercises Folder](./vnet-create)
-
 | Section | Status | Documentation
 | --- | --- | --- |
 | create and configure VNET peering | Pending | [VNet Peering](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview) |
@@ -107,8 +101,6 @@
 ## Manage Azure Active Directory (AD)
 
 - [Section Documentation on Azure Docs](https://docs.microsoft.com/en-us/azure/active-directory/)
-
-- [Exercises Folder](./active-directory)
 
 | Section | Status | Documentation
 | --- | --- | --- |
@@ -122,8 +114,6 @@
 ## Implement and manage hybrid identities
 
 - [Section Documentation on Azure Docs](https://docs.microsoft.com/en-us/azure/active-directory/)
-
-- [Exercises Folder](./active-directory)
 
 | Section | Status | Documentation
 | --- | --- | --- |

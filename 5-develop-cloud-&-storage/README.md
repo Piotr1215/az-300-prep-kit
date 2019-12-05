@@ -2,6 +2,8 @@
 
 ## Develop solutions that use Cosmos DB storage
 
+- [Development with Cosmos DB](https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs?storyId=story://d50c8d04-98de-45a5-84ce-75e1fbceab91/)
+
 | Section | Status | Documentation
 | --- | --- | --- |
 | create, read, update, and delete data by using appropriate APIs | Pending | add link |
