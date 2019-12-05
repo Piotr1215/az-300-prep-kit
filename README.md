@@ -35,7 +35,9 @@ In my case for example I needed to focus on networking and infrastructure.
 
 ---
 
-## Exam curriculum
+## Content
+
+Each section of the exam material has its own README file linked below with links to documentation, labs and other info. There is also [Exercises folder](/Exercises) with a few scripts (mostly Azure CLI) to deploy resources on Azure quicker.
 
 * [Deploy and configure infrastructure (25-30%)](/1-infrastructure/README.md)
 
