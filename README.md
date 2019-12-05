@@ -14,7 +14,7 @@ Feel free to fork or submit PR.
 3. [Official Microsoft exam page with free learning materials](https://docs.microsoft.com/en-gb/learn/certifications/exams/az-300)
 4. [Video from MS Ignite with tips on taking the exam](https://myignite.techcommunity.microsoft.com/sessions/80470?source=sessions)
 5. [Create free account on Azure and practice!](https://azure.microsoft.com/en-us/free/)
-6. [Self paced Azure labs - only signing in with LinedIn worked for me](https://www.microsoft.com/HandsOnLabs/SelfPacedLabs)
+6. [Self paced Azure labs](https://www.microsoft.com/HandsOnLabs/SelfPacedLabs)
 7. [Azure quick-start ARM and Powershell templates](https://github.com/Azure/AzureStack-QuickStart-Templates)
 
 ## Exam preparation tips
@@ -29,9 +29,13 @@ Feel free to fork or submit PR.
 
 ### #5: Practice everything you can using Azure portal, there will be practice tests
 
+### #6: Focus on your weak spots and try to understand not just learn by memory
+
+In my case for example I needed to focus on networking and infrastructure.
+
 ---
 
-## <center>Exam curriculum</center>
+## Exam curriculum
 
 * [Deploy and configure infrastructure (25-30%)](/1-infrastructure/README.md)
 
