@@ -19,19 +19,51 @@ Feel free to fork or submit PR.
 
 ## Exam preparation tips
 
-### #1: Use `az interactive` to enable CLI auto completion and helpful tips
+### #1: Understand exam structure
+
+Az-300 is focusing on practical usecases of Azure technologies. Exam has following characteristics:
+
+1. Questions: 40-60 questions
+
+   * Some questions are worth 1 point
+
+   * Some questions cannot be skipped
+
+   * There are different types of questions: multiple-choice, build list, hot area, drag and drop, reorder etc
+
+   * There are also Performance based questions (labs) to be done in Azure portal
+
+   * Questions are often in context of Case Studies where you need to gather and understand information across multiple sources
+
+2. Duration: 3,5 hours
+
+   * Schedule 30 minutes for reading and understangin instructions and rest for actal exam.
+
+### #2: Use `az interactive` to enable CLI auto completion and helpful tips
 
 ### #2: Preview features are NOT included in the exam curriculum
 
-### #3: Always answer all the questions. There is no penalty for wrong answers
+### #4: Always answer all the questions. There is no penalty for wrong answers
 
-### #4: Check exam offers. Good ones are [Exam with retake](https://eu1.mindhub.com/microsoft-exam-replay-mcp-exam-plus-retake/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3) and [Exam with retake and practice test](https://eu1.mindhub.com/microsoft-exam-replay-with-practice-test-mcp-exam/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink)
+### #5: Check exam offers. Good ones are [Exam with retake](https://eu1.mindhub.com/microsoft-exam-replay-mcp-exam-plus-retake/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3) and [Exam with retake and practice test](https://eu1.mindhub.com/microsoft-exam-replay-with-practice-test-mcp-exam/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink)
 
-### #5: Practice everything you can using Azure portal, there will be practice tests
+### #6: Practice key components using Azure portal, there will be practice tests
 
-### #6: Focus on your weak spots and try to understand not just learn by memory
+### #7: Make sure to understand how to use powershell, get help on commands and understand how to manipulate Azure resources using it
 
-In my case for example I needed to focus on networking and infrastructure.
+### #8: Schedule exam and create and follow preparation plan
+
+When I was confident I have enought preparation and understand the material, it was time to **schedule the exam**. Scheduling exam was important to set a date in calendar and make sure I stay focus and plan my time well.
+
+**10 days** from exam I scheduled final preparation plan focusing on each section as follows:
+
+* Days 1-2: Deploy and configure infrastructure (25-30%)
+* Days 3-4: Implement workloads and security (20-25%)
+* Day 5: Create and deploy apps (5-10%)
+* Day 6: Implement authentication and secure data (5-10%)
+* Days 7-8: Develop for the cloud and for Azure storage (20-25%)
+* Day 9: Microsoft Azure AZ-300 Architecture Technologies Practice Exams (bought cheap on Udemy during Cyber Week)
+* Day 10: EXAM!
 
 ---
 
