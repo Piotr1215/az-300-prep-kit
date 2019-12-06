@@ -7,7 +7,7 @@
 | implement authentication by using certificates, forms-based authentication, tokens, or Windows-integrated authentication | Pending | [Azure Authentication](https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-scenarios) |
 | implement multi-factor authentication by using Azure AD | Pending | [MFA](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted) |
 | implement OAuth2 authentication | Pending | [OAuth2](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-v2-protocols) |
-| implement Managed identities for Azure resources Service Principal authentication | Pending | add link |
+| implement Managed identities for Azure resources Service Principal authentication | Pending | [Managed identities](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview) |
 
 ## Implement secure data solutions
 
