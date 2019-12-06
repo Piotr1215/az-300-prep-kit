@@ -39,21 +39,28 @@ Az-300 is focusing on practical usecases of Azure technologies. Exam has followi
 
    * Schedule 30 minutes for reading and understangin instructions and rest for actal exam.
 
-### #2: Use `az interactive` to enable CLI auto completion and helpful tips
+### #2: Learn how to manipulate resources on Azure using command line tools
 
-### #2: Preview features are NOT included in the exam curriculum
+* Use `az interactive` to enable CLI auto completion and helpful tips
+
+* use `powershell`, get help on commands and understand the order of command-lets (first create resource group, etc)
+
+### #3: Preview features are NOT included in the exam curriculum
 
 ### #4: Always answer all the questions. There is no penalty for wrong answers
 
-### #5: Check exam offers. Good ones are [Exam with retake](https://eu1.mindhub.com/microsoft-exam-replay-mcp-exam-plus-retake/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3) and [Exam with retake and practice test](https://eu1.mindhub.com/microsoft-exam-replay-with-practice-test-mcp-exam/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink)
+### #5: Before you schedule the exam, check for offers
+
+* [Exam with retake](https://eu1.mindhub.com/microsoft-exam-replay-mcp-exam-plus-retake/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3)
+
+* [Exam with retake and practice test](https://eu1.mindhub.com/microsoft-exam-replay-with-practice-test-mcp-exam/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink)
 
 ### #6: Practice key components using Azure portal, there will be practice tests
 
-### #7: Make sure to understand how to use powershell, get help on commands and understand how to manipulate Azure resources using it
+### #7: Schedule exam and create and follow preparation plan
 
-### #8: Schedule exam and create and follow preparation plan
-
-When I was confident I have enought preparation and understand the material, it was time to **schedule the exam**. Scheduling exam was important to set a date in calendar and make sure I stay focus and plan my time well.
+When I was confident I have enought preparation and understand the material, it was time to **schedule the exam**.
+Scheduling exam was important to set a date in calendar and make sure I stay focus and plan my time well.
 
 **10 days** from exam I scheduled final preparation plan focusing on each section as follows:
 
