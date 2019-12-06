@@ -58,20 +58,20 @@
 | Section | Status | Documentation
 | --- | --- | --- |
 | modify Azure Resource Manager template | Pending | [ARM Templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/template-deployment-overview) |
-| configure location of new VMs | Pending | add link |
+| configure location of new VMs | Pending | [Move VM to another region](https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-migrate) |
 | configure VHD template | Pending | [VHD Template](https://docs.microsoft.com/en-us/azure/marketplace/cloud-partner-portal/virtual-machine/cpp-deploy-json-template) |
 | deploy from template | Pending | [Deploy from portal](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-quickstart-create-templates-use-the-portal) |
-| save a deployment as an Azure Resource Manager template | Pending | add link |
+| save a deployment as an Azure Resource Manager template | Pending | [Deployment as ARM](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy-portal) |
 | deploy Windows and Linux VMs | Pending | [Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/create-ssh-secured-vm-from-template), [Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/ps-template) |
 
 ## Implement solutions that use virtual machines (VM)
 
 | Section | Status | Documentation
 | --- | --- | --- |
-| provision VMs | Pending | add link |
-| create Azure Resource Manager templates | Pending | add link |
-| configure Azure Disk Encryption for VMs | Pending | add link |
-| implement Azure Backup for VMs | Pending | add link |
+| provision VMs | Pending | [Linux VM](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal) |
+| create Azure Resource Manager templates | Pending | [Create ARM](https://docs.microsoft.com/en-us/azure/azure-resource-manager/template-tutorial-create-first-template?tabs=azure-powershell) |
+| configure Azure Disk Encryption for VMs | Pending | [Encrypt disk on Linux VM](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-overview) |
+| implement Azure Backup for VMs | Pending | [Backup Azure VM](https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction) |
 
 ## Implement and manage virtual networking
 
@@ -81,9 +81,9 @@
 
 | Section | Status | Documentation
 | --- | --- | --- |
-| monitor activity log by using Azure Monitor logs | Pending | add link |
+| monitor activity log by using Azure Monitor logs | Pending | [Azure Monitor Logs](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/howto-analyze-activity-logs-log-analytics) |
 | configure private and public IP addresses | Pending | [Private IP](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-static-private-ip-arm-pportal), [Public IP](https://docs.microsoft.com/en-us/azure/virtual-network/associate-public-ip-address-vm) |
-| network routes, network interface, subnets, and virtual network | Pending | add link |
+| network routes, network interface, subnets, and virtual network | Pending | [Azure Virtual Networking](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview) |
 | create and configure Network Security Groups | Pending | [Network Security Groups](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview) |
 | create and configure Application Security Groups | Pending | [Application Security Groups](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#application-security-groups) |
 
@@ -95,7 +95,7 @@
 | --- | --- | --- |
 | create and configure VNET peering | Pending | [VNet Peering](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview) |
 | create and configure VNET to VNET connections | Pending | [VNet to VNet connections](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal) |
-| verify virtual network connectivity | Pending | add link |
+| verify virtual network connectivity | Pending | [Check and Troubleshoot](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-connectivity-problem-between-vms) |
 | create virtual network gateway | Pending | [Create Gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/create-routebased-vpn-gateway-portal) |
 
 ## Manage Azure Active Directory (AD)
@@ -108,8 +108,8 @@
 | configure Azure AD Identity Protection, Azure AD Join | Pending | [Identity Protection](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection), [AD Join](https://docs.microsoft.com/en-us/azure/active-directory/devices/azureadjoin-plan) |
 | configure self-service password reset | Pending | [Pw reset](https://docs.microsoft.com/en-us/azure/active-directory/authentication/quickstart-sspr) |
 | implement conditional access policies | Pending | [Policies](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/plan-conditional-access) |
-| manage multiple directories | Pending | add link |
-| perform an access review | Pending | add link |
+| manage multiple directories | Pending | [Multi-directories](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/licensing-directory-independence) |
+| perform an access review | Pending | [Access Review](https://docs.microsoft.com/en-us/azure/active-directory/governance/access-reviews-overview) |
 
 ## Implement and manage hybrid identities
 
@@ -119,5 +119,5 @@
 | --- | --- | --- |
 | install and configure Azure AD Connect | Pending | [AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect) |
 | configure federation and single sign-on | Pending | [SSO](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/what-is-single-sign-on), [Federation](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-fed) |
-| manage and troubleshoot Azure AD Connect | Pending | add link |
-| troubleshoot password sync and writeback | Pending | add link |
+| manage and troubleshoot Azure AD Connect | Pending | [Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-health-operations) |
+| troubleshoot password sync and writeback | Pending | [Password writeback](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-sspr-writeback) |
