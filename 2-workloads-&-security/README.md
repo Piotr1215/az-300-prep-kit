@@ -11,11 +11,11 @@
 
 | Section | Status | Documentation
 | --- | --- | --- |
-| create and manage objects | Pending | add link |
-| manage a Logic App resource | Pending | add link |
-| manage Azure Function app settings | Pending | add link |
-| manage Event Grid | Pending | add link |
-| manage Service Bus | Pending | add link |
+| create and manage objects | Pending | [Serverless](https://azure.microsoft.com/en-us/overview/serverless-computing/) |
+| manage a Logic App resource | Pending | [Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/) |
+| manage Azure Function app settings | Pending | [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) |
+| manage Event Grid | Pending | [Event Grid](https://docs.microsoft.com/en-us/azure/event-grid/overview) |
+| manage Service Bus | Pending | [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/) |
 
 ## Implement application load balancing
 
@@ -40,19 +40,19 @@
 
 | Section | Status | Documentation
 | --- | --- | --- |
-| configure user accounts for MFA | Pending | add link |
-| configure fraud alerts | Pending | add link |
-| configure bypass options | Pending | add link |
-| configure trusted IPs | Pending | add link |
-| configure verification methods | Pending | add link |
+| configure user accounts for MFA | Pending | [MFA config](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-mfasettings) |
+| configure fraud alerts | Pending | [Fraud Alerts](https://subscription.packtpub.com/book/networking_and_servers/9781838829025/16/ch16lvl1sec149/configuring-fraud-alerts) |
+| configure bypass options | Pending | [Bypass](https://subscription.packtpub.com/book/networking_and_servers/9781838829025/16/ch16lvl1sec150/configuring-bypass-options) |
+| configure trusted IPs | Pending | [Lynda Video](https://www.lynda.com/Azure-tutorials/Configure-trusted-IPs-app-passwords/585262/639244-4.html) |
+| configure verification methods | Pending | [Verification methods](https://docs.microsoft.com/en-us/azure/active-directory/user-help/multi-factor-authentication-end-user-manage-settings) |
 
 ## Manage role-based access control (RBAC)
 
 | Section | Status | Documentation
 | --- | --- | --- |
-| create a custom role | Pending | add link |
-| configure access to Azure resources by assigning roles | Pending | add link |
-| configure management access to Azure | Pending | add link |
-| troubleshoot RBAC | Pending | add link |
-| implement Azure policies | Pending | add link |
-|  assign RBAC roles| Pending | add link |
+| create a custom role | Pending | [Custom roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/custom-roles) |
+| configure access to Azure resources by assigning roles | Pending | [Assign roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal) |
+| configure management access to Azure | Pending | [Conditional access](https://docs.microsoft.com/en-us/azure/role-based-access-control/conditional-access-azure-management) |
+| troubleshoot RBAC | Pending | [Link](https://docs.microsoft.com/en-us/azure/role-based-access-control/troubleshooting) |
+| implement Azure policies | Pending | [Policies](https://docs.microsoft.com/en-us/azure/governance/policy/overview) |
+| assign RBAC roles| Pending | [Grant access RBAC](https://docs.microsoft.com/en-us/azure/role-based-access-control/quickstart-assign-role-user-portal) |
