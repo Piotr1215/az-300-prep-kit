@@ -43,7 +43,7 @@ Az-300 is focusing on practical usecases of Azure technologies. Exam has followi
 
 * Use `az interactive` to enable CLI auto completion and helpful tips
 
-* use `powershell`, get help on commands and understand the order of command-lets (first create resource group, etc)
+* Use `powershell`, get help on commands and understand the order of command-lets (first create resource group, etc)
 
 ### #3: Preview features are NOT included in the exam curriculum
 
