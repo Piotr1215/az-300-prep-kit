@@ -2,6 +2,10 @@
 
 ## Migrate servers to Azure
 
+- [System Center Data Protection Manager](https://docs.microsoft.com/en-us/system-center/dpm/dpm-overview?view=sc-dpm-2019)
+
+- [Azure Backup Introduction](https://docs.microsoft.com/en-us/azure/backup/backup-introduction-to-azure-backup)
+
 | Section | Status | Documentation
 | --- | --- | --- |
 | migrate servers using Azure Migrate | Pending | [Azure Migrate](https://docs.microsoft.com/en-us/azure/migrate/migrate-services-overview) |
@@ -18,6 +22,10 @@
 | manage Service Bus | Pending | [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/) |
 
 ## Implement application load balancing
+
+- [WAF FAQ](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-faq)
+
+- [Multi-Site Listener](https://docs.microsoft.com/en-us/azure/application-gateway/multiple-site-overview)
 
 | Section | Status | Documentation
 | --- | --- | --- |

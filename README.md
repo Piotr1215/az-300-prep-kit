@@ -13,9 +13,9 @@ Feel free to fork or submit PR.
 2. [Udemy "AZ-300 Azure Architecture Technologies Certification Exam" by Scott Duffy](https://www.udemy.com/course/70534-azure/)
 3. [Official Microsoft exam page with free learning materials](https://docs.microsoft.com/en-gb/learn/certifications/exams/az-300)
 4. [Video from MS Ignite with tips on taking the exam](https://myignite.techcommunity.microsoft.com/sessions/80470?source=sessions)
-5. [Create free account on Azure and practice!](https://azure.microsoft.com/en-us/free/)
-6. [Self paced Azure labs](https://www.microsoft.com/HandsOnLabs/SelfPacedLabs)
-7. [Azure quick-start ARM and Powershell templates](https://github.com/Azure/AzureStack-QuickStart-Templates)
+5. [Self paced Azure labs](https://www.microsoft.com/HandsOnLabs/SelfPacedLabs)
+6. [Azure documentation](https://docs.microsoft.com/en-us/azure/)
+7. [Quick-start ARM and Powershell templates](https://github.com/Azure/AzureStack-QuickStart-Templates)
 
 ## Exam preparation tips
 
@@ -56,6 +56,8 @@ Az-300 is focusing on practical usecases of Azure technologies. Exam has followi
 * [Exam with retake and practice test](https://eu1.mindhub.com/microsoft-exam-replay-with-practice-test-mcp-exam/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink)
 
 ### #6: Practice key components using Azure portal, there will be practice tests
+
+* [Create free account on Azure and practice!](https://azure.microsoft.com/en-us/free/)
 
 ### #7: Schedule exam and create and follow preparation plan
 

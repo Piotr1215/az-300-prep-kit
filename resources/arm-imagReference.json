@@ -1,0 +1,8 @@
+{
+    "imageReference": {
+        "publisher": "RedHat",
+        "offer": "RHEL",
+        "sku": "7.3",
+        "version": "latest"
+    }
+}
