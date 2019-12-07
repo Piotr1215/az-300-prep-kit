@@ -6,20 +6,20 @@
 
 - [Azure Backup Introduction](https://docs.microsoft.com/en-us/azure/backup/backup-introduction-to-azure-backup)
 
-| Section | Status | Documentation
+| Section | Learning Path | Documentation
 | --- | --- | --- |
-| migrate servers using Azure Migrate | Pending | [Azure Migrate](https://docs.microsoft.com/en-us/azure/migrate/migrate-services-overview) |
-| backup and restore data | Pending | [Backup](https://docs.microsoft.com/en-us/azure/backup/backup-architecture) |
+| migrate servers using Azure Migrate | [Learning Path](https://docs.microsoft.com/en-gb/learn/modules/design-your-migration-to-azure/index) | [Documentaiton](https://docs.microsoft.com/en-us/azure/migrate/migrate-services-overview) |
+| backup and restore data | [Learning Path](https://docs.microsoft.com/en-gb/learn/modules/backup-restore-azure-sql/index) | [Documentaiton](https://docs.microsoft.com/en-us/azure/backup/backup-architecture) |
 
 ## Configure serverless computing
 
-| Section | Status | Documentation
+| Section | Learning Path | Documentation
 | --- | --- | --- |
 | create and manage objects | Pending | [Serverless](https://azure.microsoft.com/en-us/overview/serverless-computing/) |
-| manage a Logic App resource | Pending | [Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/) |
-| manage Azure Function app settings | Pending | [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) |
-| manage Event Grid | Pending | [Event Grid](https://docs.microsoft.com/en-us/azure/event-grid/overview) |
-| manage Service Bus | Pending | [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/) |
+| manage a Logic App resource | [Learning Path](https://docs.microsoft.com/en-gb/learn/modules/route-and-process-data-logic-apps/index) | [Documentation](https://docs.microsoft.com/en-us/azure/logic-apps/) |
+| manage Azure Function app settings | [Learning Path](https://docs.microsoft.com/en-gb/learn/modules/create-serverless-logic-with-azure-functions/index) | [Documentation](https://docs.microsoft.com/en-us/azure/azure-functions/) |
+| manage Event Grid | [Learning Path](https://docs.microsoft.com/en-gb/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/4-choose-event-grid) | [Documentation](https://docs.microsoft.com/en-us/azure/event-grid/overview) |
+| manage Service Bus | [Learning Path](https://docs.microsoft.com/en-gb/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/3-choose-azure-storage-queues) | [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/) |
 
 ## Implement application load balancing
 

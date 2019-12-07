@@ -8,7 +8,7 @@
 | create documentation for the API | Pending | add link |
 | create an App Service Web App for containers | Pending | add link |
 | create an App Service Web App for containers | Pending | add link |
-| create an App Service background task by using WebJobs | Pending | add link |
+| create an App Service background task by using WebJobs | Pending | [WebJob](https://docs.microsoft.com/en-us/azure/app-service/webjobs-create) |
 | enable diagnostics logging | Pending | add link |
 
 ## Design and develop apps that run in containers

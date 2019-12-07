@@ -12,7 +12,7 @@
 | analyze alerts across subscription  | Done | [Alerts across subscriptions](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience) |
 | analyze metrics across subscription | Done | [Alerts across subscriptions](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience) |
 | create action groups                | Done | [Create action group](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/action-groups#create-an-action-group-by-using-the-azure-portal) |
-| monitor for unused resources        | Done | [Powershell script to monitor for unused resources](https://www.verboon.info/2016/10/clean-up-unused-azure-resources-with-powershell/) |
+| monitor for unused resources        | Done | [Use Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/) |
 | monitor spend                       | Done | [Monitor spend](https://docs.microsoft.com/en-us/azure/cost-management/cost-mgt-alerts-monitor-usage-sDone) |
 | report on spend                     | Done | [Using Cloudyn](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-manage-costs) |
 | utilize Log Search query functions  | Done | [Log Queries](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/get-started-queries) |
