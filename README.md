@@ -7,6 +7,24 @@ This repo is my way of preparing for az-300 exam which is part of
 
 Feel free to fork or submit PR.
 
+---
+
+## Content
+
+Each section of the exam material has its own README file linked below with links to documentation, labs and other info. There is also [Exercises folder](/Exercises) with a few scripts (mostly Azure CLI) to deploy resources on Azure quicker.
+
+* [Deploy and configure infrastructure (25-30%)](/1-infrastructure/README.md)
+
+* [Implement workloads and security (20-25%)](/2-workloads-&-security/README.md)
+
+* [Create and deploy apps (5-10%)](/3-create-&-deploy-apps/README.md)
+
+* [Implement authentication and secure data (5-10%)](/4-authentication-&-security/README.md)
+
+* [Develop for the cloud and for Azure storage (20-25%)](/5-develop-cloud-&-storage/README.md)
+
+---
+
 ## Resources
 
 1. [Plularsight Courses](https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-300)
@@ -16,6 +34,8 @@ Feel free to fork or submit PR.
 5. [Self paced Azure labs](https://www.microsoft.com/HandsOnLabs/SelfPacedLabs)
 6. [Azure documentation](https://docs.microsoft.com/en-us/azure/)
 7. [Quick-start ARM and Powershell templates](https://github.com/Azure/AzureStack-QuickStart-Templates)
+
+---
 
 ## Exam preparation tips
 
@@ -73,19 +93,3 @@ Scheduling exam was important to set a date in calendar and make sure I stay foc
 * Days 7-8: Develop for the cloud and for Azure storage (20-25%)
 * Day 9: Microsoft Azure AZ-300 Architecture Technologies Practice Exams (bought cheap on Udemy during Cyber Week)
 * Day 10: EXAM!
-
----
-
-## Content
-
-Each section of the exam material has its own README file linked below with links to documentation, labs and other info. There is also [Exercises folder](/Exercises) with a few scripts (mostly Azure CLI) to deploy resources on Azure quicker.
-
-* [Deploy and configure infrastructure (25-30%)](/1-infrastructure/README.md)
-
-* [Implement workloads and security (20-25%)](/2-workloads-&-security/README.md)
-
-* [Create and deploy apps (5-10%)](/3-create-&-deploy-apps/README.md)
-
-* [Implement authentication and secure data (5-10%)](/4-authentication-&-security/README.md)
-
-* [Develop for the cloud and for Azure storage (20-25%)](/5-develop-cloud-&-storage/README.md)
