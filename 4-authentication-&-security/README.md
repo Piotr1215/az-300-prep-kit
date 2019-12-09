@@ -4,47 +4,47 @@
 
 - [Authentication overview](https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-authentication)
 
-### implement authentication by using certificates, forms-based authentication, tokens, or Windows-integrated authentication
+- [ ] __ implement authentication by using certificates, forms-based authentication, tokens, or Windows-integrated authentication
 
-- [Integrated Windows Authentication (ASP.NET Web API example)](https://docs.microsoft.com/en-us/aspnet/web-api/overview/security/integrated-windows-authentication)
+  - [Integrated Windows Authentication (ASP.NET Web API example)](https://docs.microsoft.com/en-us/aspnet/web-api/overview/security/integrated-windows-authentication)
 
-- [Certificates Based Authentication (Azure Docs)](https://docs.microsoft.com/en-us/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started)
+  - [Certificates Based Authentication (Azure Docs)](https://docs.microsoft.com/en-us/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started)
 
-- [Certificates Based Authentication (free Plularsight course)](https://app.pluralsight.com/player?course=microsoft-azure-authentication-scenarios-developers&author=sahil-malik&name=c89272de-77ad-4038-931d-df5c87c02401&clip=0&mode=live)
+  - [Certificates Based Authentication (free Plularsight course)](https://app.pluralsight.com/player?course=microsoft-azure-authentication-scenarios-developers&author=sahil-malik&name=c89272de-77ad-4038-931d-df5c87c02401&clip=0&mode=live)
 
-- [Forms-Based Authentication (free Plularsight course)](https://app.pluralsight.com/course-player?course=microsoft-azure-authentication-scenarios-developers&author=sahil-malik&name=1588d422-3e09-4635-96cc-353b5e6bca48&clip=0&mode=live)
+  - [Forms-Based Authentication (free Plularsight course)](https://app.pluralsight.com/course-player?course=microsoft-azure-authentication-scenarios-developers&author=sahil-malik&name=1588d422-3e09-4635-96cc-353b5e6bca48&clip=0&mode=live)
 
-- [Azure Authentication](https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-scenarios)
+  - [Azure Authentication](https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-scenarios)
 
-### implement multi-factor authentication by using Azure AD
+- [ ] __ implement multi-factor authentication by using Azure AD
 
-- [MFA on Azure Docs](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted)
+  - [MFA on Azure Docs](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted)
 
-- [MFA on Plularsight (free course)](https://app.pluralsight.com/player?course=microsoft-azure-authentication-scenarios-developers&author=sahil-malik&name=0674f9c6-6fc8-4485-bb32-d7d92a8cb23e&clip=0&mode=live)
+  - [MFA on Plularsight (free course)](https://app.pluralsight.com/player?course=microsoft-azure-authentication-scenarios-developers&author=sahil-malik&name=0674f9c6-6fc8-4485-bb32-d7d92a8cb23e&clip=0&mode=live)
 
-### implement OAuth2 authentication
+- [ ] __ implement OAuth2 authentication
 
-- [OAuth2](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-v2-protocols)
+  - [OAuth2](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-v2-protocols)
 
-### implement Managed identities for Azure resources Service Principal authentication
+- [ ] __ implement Managed identities for Azure resources Service Principal authentication
 
-- [Managed identities](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview)
+  - [Managed identities](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview)
 
 ## Implement secure data solutions
 
-### encrypt and decrypt data at rest and in transit
+- [ ] __ encrypt and decrypt data at rest and in transit
 
-- [Data Encryption in Transit](https://docs.microsoft.com/en-us/azure/security/fundamentals/data-encryption-best-practices#protect-data-in-transit)
-- [Data Encryption at Rest](https://docs.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest)
+  - [Data Encryption in Transit](https://docs.microsoft.com/en-us/azure/security/fundamentals/data-encryption-best-practices#protect-data-in-transit)
+  - [Data Encryption at Rest](https://docs.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest)
 
-### encrypt data with Always Encrypted
+- [ ] __ encrypt data with Always Encrypted
 
-- [Always Encrypted](https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/always-encrypted-database-engine?view=sqlallproducts-allversions)
+  - [Always Encrypted](https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/always-encrypted-database-engine?view=sqlallproducts-allversions)
 
-### implement Azure Confidential Compute and SSL/TLS communications
+- [ ] __ implement Azure Confidential Compute and SSL/TLS communications
 
-- [Confidential Compute](https://azure.microsoft.com/en-us/solutions/confidential-compute/)
+  - [Confidential Compute](https://azure.microsoft.com/en-us/solutions/confidential-compute/)
 
-### create, read, update, and delete keys, secrets, and certificates by using the KeyVault API
+- [ ] __ create, read, update, and delete keys, secrets, and certificates by using the KeyVault API
 
-- [Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview)
+  - [Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview)

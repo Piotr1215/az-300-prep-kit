@@ -4,32 +4,32 @@
 
 - [Development with Cosmos DB](https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs?storyId=story://d50c8d04-98de-45a5-84ce-75e1fbceab91/)
 
-### create, read, update, and delete data by using appropriate APIs
+- [ ] __ create, read, update, and delete data by using appropriate APIs
 
-### implement partitioning schemes
+- [ ] __ implement partitioning schemes
 
-### set the appropriate consistency level for operations
+- [ ] __ set the appropriate consistency level for operations
 
 ## Develop solutions that use a relational database
 
-### provision and configure relational databases
+- [ ] __ provision and configure relational databases
 
-### configure elastic pools for Azure SQL Database
+- [ ] __ configure elastic pools for Azure SQL Database
 
-### implement Azure SQL Database managed instances
+- [ ] __ implement Azure SQL Database managed instances
 
-### create, read, update, and delete data tables by using code
+- [ ] __ create, read, update, and delete data tables by using code
 
 ## Configure a message-based integration architecture
 
-### configure an app or service to send emails, Event Grid, and the Azure Relay service
+- [ ] __ configure an app or service to send emails, Event Grid, and the Azure Relay service
 
-### create and configure Notification Hub, Event Hub, and Service Bus
+- [ ] __ create and configure Notification Hub, Event Hub, and Service Bus
 
-### configure queries across multiple products
+- [ ] __ configure queries across multiple products
 
 ## Develop for autoscaling
 
-### implement autoscaling rules and patterns (schedule, operational/system metrics, code * that addresses singleton application instances)
+- [ ] __ implement autoscaling rules and patterns (schedule, operational/system metrics, code * that addresses singleton application instances)
 
-### implement code that addresses transient state
+- [ ] __ implement code that addresses transient state

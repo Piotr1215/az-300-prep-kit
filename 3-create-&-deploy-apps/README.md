@@ -2,28 +2,28 @@
 
 ## Create web apps by using PaaS
 
-### create an Azure App Service Web App
+- [ ] __create an Azure App Service Web App__
 
-### create documentation for the API
+- [ ] __create documentation for the API__
 
-### create an App Service Web App for containers
+- [ ] __create an App Service Web App for containers__
 
-### create an App Service background task by using WebJobs
+- [ ] __create an App Service background task by using WebJobs__
 
 [WebJob](https://docs.microsoft.com/en-us/azure/app-service/webjobs-create)
 
-### enable diagnostics logging
+- [ ] __enable diagnostics logging__
 
 ## Design and develop apps that run in containers
 
-### configure diagnostic settings on resources
+- [ ] __configure diagnostic settings on resources__
 
-### create a container image by using a Docker file
+- [ ] __create a container image by using a Docker file__
 
-### create an Azure Kubernetes Service
+- [ ] __create an Azure Kubernetes Service__
 
-### publish an image to the Azure Container Registry
+- [ ] __publish an image to the Azure Container Registry__
 
-### implement an application that runs on an Azure Container Instance
+- [ ] __implement an application that runs on an Azure Container Instance__
 
-### manage container settings by using code
+- [ ] __manage container settings by using code__
