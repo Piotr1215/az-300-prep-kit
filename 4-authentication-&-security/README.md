@@ -10,7 +10,8 @@
  [Certificates Based Authentication (Azure Docs)](https://docs.microsoft.com/en-us/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started),[Certificates Based Authentication (free Plularsight course)](https://app.pluralsight.com/player?course=microsoft-azure-authentication-scenarios-developers&author=sahil-malik&name=c89272de-77ad-4038-931d-df5c87c02401&clip=0&mode=live),
  [Forms-Based Authentication (free Plularsight course)](https://app.pluralsight.com/course-player?course=microsoft-azure-authentication-scenarios-developers&author=sahil-malik&name=1588d422-3e09-4635-96cc-353b5e6bca48&clip=0&mode=live),
  [Azure Authentication](https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-scenarios) |
-| implement multi-factor authentication by using Azure AD | Pending | [MFA](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted) |
+| implement multi-factor authentication by using Azure AD | Pending | [MFA on Azure Docs](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted),
+ [MFA on Plularsight (free course)](https://app.pluralsight.com/player?course=microsoft-azure-authentication-scenarios-developers&author=sahil-malik&name=0674f9c6-6fc8-4485-bb32-d7d92a8cb23e&clip=0&mode=live) |
 | implement OAuth2 authentication | Pending | [OAuth2](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-v2-protocols) |
 | implement Managed identities for Azure resources Service Principal authentication | Pending | [Managed identities](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview) |
 
