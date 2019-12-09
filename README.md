@@ -16,13 +16,13 @@ You can clone/fork this repo and mark mark your progress.
 
 * [x] [Deploy and configure infrastructure (25-30%)](/1-infrastructure/README.md)
 
-* [Implement workloads and security (20-25%)](/2-workloads-&-security/README.md)
+* [x] [Implement workloads and security (20-25%)](/2-workloads-&-security/README.md)
 
-* [Create and deploy apps (5-10%)](/3-create-&-deploy-apps/README.md)
+* [x] [Create and deploy apps (5-10%)](/3-create-&-deploy-apps/README.md)
 
-* [Implement authentication and secure data (5-10%)](/4-authentication-&-security/README.md)
+* [ ] [Implement authentication and secure data (5-10%)](/4-authentication-&-security/README.md)
 
-* [Develop for the cloud and for Azure storage (20-25%)](/5-develop-cloud-&-storage/README.md)
+* [ ] [Develop for the cloud and for Azure storage (20-25%)](/5-develop-cloud-&-storage/README.md)
 
 ## Resources
 
