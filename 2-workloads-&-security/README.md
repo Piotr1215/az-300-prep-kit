@@ -56,9 +56,9 @@
 
 ### configure application gateway
 
-[Learning Path](https://docs.microsoft.com/en-gb/learn/modules/load-balance-web-traffic-with-application-gateway/index)
+- [Learning Path](https://docs.microsoft.com/en-gb/learn/modules/load-balance-web-traffic-with-application-gateway/index)
 
-[Azure Docs](https://docs.microsoft.com/en-us/azure/application-gateway/configuration-overview)
+- [Azure Docs](https://docs.microsoft.com/en-us/azure/application-gateway/configuration-overview)
 
 ### configure Azure Front Door service
 
