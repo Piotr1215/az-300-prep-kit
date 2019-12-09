@@ -47,4 +47,4 @@
 
 ### create, read, update, and delete keys, secrets, and certificates by using the KeyVault API
 
-- [Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview) |
+- [Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview)
