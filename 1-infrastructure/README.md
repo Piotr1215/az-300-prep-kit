@@ -6,35 +6,35 @@
 
 - [x] __configure diagnostic settings on resources__
 
-- [x] [Diagnostic settings](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings)
+  - [Diagnostic settings](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings)
 
 - [x] __create baseline for resources__
 
-- [x] [Lynda video](https://www.lynda.com/Azure-tutorials/Create-baseline-resources/782139/5010821-4.html)
+  - [Lynda video](https://www.lynda.com/Azure-tutorials/Create-baseline-resources/782139/5010821-4.html)
 
 - [x] __create and test alerts__
 
-- [ ] [Alerting on Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience)
+  - [Alerting on Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience)
 
 - [x] __analyze alerts across subscription__
 
-- [ ] [Alerts across subscriptions](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience)
+  - [Alerts across subscriptions](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience)
 
 - [x] __analyze metrics across subscription__
 
-[Alerts across subscriptions](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience)
+  - [Alerts across subscriptions](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience)
 
 - [x] __create action groups__
 
-[Create action group](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/action-groups#create-an-action-group-by-using-the-azure-portal)
+  - [Create action group](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/action-groups#create-an-action-group-by-using-the-azure-portal)
 
 - [x] __monitor for unused resources__
 
-[Use Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/)
+  - [Use Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/)
 
 - [x] __report on spend__
 
-[Using Cloudyn](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-manage-costs)
+  - [Using Cloudyn](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-manage-costs)
 
 - [x] __utilize Log Search query functions__
 
