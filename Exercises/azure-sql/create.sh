@@ -10,8 +10,7 @@ echo "${projectName}rg"
 
 az group create --location westeurope --name "${projectName}rg"
 
-az group deployment create -g $resourceGroupName --template-uri "template.json" `
-    --parameters 'projectName=' + $projectName \
+az group deployment create -g "${projectName}rg" --template-uri "/template.json" --parameters 'projectName=' + $projectName \
                  'adminUser=' + $adminUser \
                  'adminPassword=' + $adminPassword
 
