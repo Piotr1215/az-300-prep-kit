@@ -38,15 +38,15 @@
 
 - [x] __utilize Log Search query functions__
 
-[Log Queries](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/get-started-queries)
+  - [Log Queries](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/get-started-queries)
 
 - [x] __view alerts in Azure Monitor logs__
 
-[Create and vew alerts](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-log)
+  - [Create and vew alerts](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-log)
 
 - [x] __visualize diagnostics data using Azure Monitor Workbooks__
 
-[Monitor Workbooks](https://docs.microsoft.com/en-us/azure/azure-monitor/app/usage-workbooks)
+  - [Monitor Workbooks](https://docs.microsoft.com/en-us/azure/azure-monitor/app/usage-workbooks)
 
 - [x] __monitor spend__
 
@@ -112,7 +112,7 @@
 
   - [Networking Linux](https:/docs.microsoft.com/en-us/azure/virtual-machines/linux/network-overview)
 
-- [Networking Windows](https:/docs.microsoft.com/en-us/azure/virtual-machines/windows/network-overview)
+  - [Networking Windows](https:/docs.microsoft.com/en-us/azure/virtual-machines/windows/network-overview)
 
   - [Storage Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/managed-disks-overview)
 
@@ -146,7 +146,7 @@
 
 - [x] __configure VHD template__
 
-[VHD Template](https://docs.microsoft.com/en-us/azure/marketplace/cloud-partner-portal/virtual-machine/cpp-deploy-json-template)
+  - [VHD Template](https://docs.microsoft.com/en-us/azure/marketplace/cloud-partner-portal/virtual-machine/cpp-deploy-json-template)
 
 - [x] __deploy from template__
 
@@ -228,7 +228,7 @@
 
 ## Manage Azure Active Directory (AD)
 
-[Section Documentation on Azure Docs](https://docs.microsoft.com/en-us/azure/active-directory/)
+- [Section Documentation on Azure Docs](https://docs.microsoft.com/en-us/azure/active-directory/)
 
 - [x] __add custom domains__
 
