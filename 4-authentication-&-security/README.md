@@ -4,7 +4,7 @@
 
 - [Authentication overview](https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-authentication)
 
-- [ ] __ implement authentication by using certificates, forms-based authentication, tokens, or Windows-integrated authentication
+- [ ] __implement authentication by using certificates, forms-based authentication, tokens, or Windows-integrated authentication__
 
   - [Integrated Windows Authentication (ASP.NET Web API example)](https://docs.microsoft.com/en-us/aspnet/web-api/overview/security/integrated-windows-authentication)
 
@@ -16,35 +16,35 @@
 
   - [Azure Authentication](https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-scenarios)
 
-- [ ] __ implement multi-factor authentication by using Azure AD
+- [ ] __implement multi-factor authentication by using Azure AD__
 
   - [MFA on Azure Docs](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted)
 
   - [MFA on Plularsight (free course)](https://app.pluralsight.com/player?course=microsoft-azure-authentication-scenarios-developers&author=sahil-malik&name=0674f9c6-6fc8-4485-bb32-d7d92a8cb23e&clip=0&mode=live)
 
-- [ ] __ implement OAuth2 authentication
+- [ ] __implement OAuth2 authentication__
 
   - [OAuth2](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-v2-protocols)
 
-- [ ] __ implement Managed identities for Azure resources Service Principal authentication
+- [ ] __implement Managed identities for Azure resources Service Principal authentication__
 
   - [Managed identities](https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview)
 
 ## Implement secure data solutions
 
-- [ ] __ encrypt and decrypt data at rest and in transit
+- [ ] __encrypt and decrypt data at rest and in transit__
 
   - [Data Encryption in Transit](https://docs.microsoft.com/en-us/azure/security/fundamentals/data-encryption-best-practices#protect-data-in-transit)
   - [Data Encryption at Rest](https://docs.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest)
 
-- [ ] __ encrypt data with Always Encrypted
+- [ ] __encrypt data with Always Encrypted__
 
   - [Always Encrypted](https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/always-encrypted-database-engine?view=sqlallproducts-allversions)
 
-- [ ] __ implement Azure Confidential Compute and SSL/TLS communications
+- [ ] __implement Azure Confidential Compute and SSL/TLS communications__
 
   - [Confidential Compute](https://azure.microsoft.com/en-us/solutions/confidential-compute/)
 
-- [ ] __ create, read, update, and delete keys, secrets, and certificates by using the KeyVault API
+- [ ] __create, read, update, and delete keys, secrets, and certificates by using the KeyVault API__
 
   - [Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview)
