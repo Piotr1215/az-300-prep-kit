@@ -7,12 +7,14 @@ This repo is my way of preparing for az-300 exam which is part of
 
 Feel free to fork or submit PR.
 
-## Content
+## Content & Learning Progress
 
 Each section of the exam material has its own README file linked below with links to documentation, labs and other useful info.
 There is also [Exercises folder](/Exercises) with a few scripts (mostly Azure CLI) to deploy resources on Azure quicker.
 
-* [Deploy and configure infrastructure (25-30%)](/1-infrastructure/README.md)
+You can clone/fork this repo and mark mark your progress.
+
+* [x] [Deploy and configure infrastructure (25-30%)](/1-infrastructure/README.md)
 
 * [Implement workloads and security (20-25%)](/2-workloads-&-security/README.md)
 
