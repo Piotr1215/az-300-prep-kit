@@ -50,7 +50,7 @@
 
 - [x] __monitor spend__
 
-[Monitor spend](https://docs.microsoft.com/en-us/azure/cost-management/cost-mgt-alerts-monitor-usage-spending)
+  - [Monitor spend](https://docs.microsoft.com/en-us/azure/cost-management/cost-mgt-alerts-monitor-usage-spending)
 
 ## Create and configure storage accounts
 
@@ -60,39 +60,39 @@
 
 - [x] __configure network access to the storage account__
 
-[Restrict network access to a resource](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources#restrict-network-access-to-a-resource)
+  - [Restrict network access to a resource](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources#restrict-network-access-to-a-resource)
 
 - [x] __create and configure storage account__
 
-[Create storage account](https://docs.microsoft.com/en-us/azure/storage/common/storage-quickstart-create-account?tabs=azure-portal)
+  - [Create storage account](https://docs.microsoft.com/en-us/azure/storage/common/storage-quickstart-create-account?tabs=azure-portal)
 
 - [x] __generate shared access signature__
 
-[Shared access signature](https://docs.microsoft.com/en-us/azure/storage/common/storage-sas-overview)
+  - [Shared access signature](https://docs.microsoft.com/en-us/azure/storage/common/storage-sas-overview)
 
 - [x] __implement Azure AD authentication for storage__
 
-[AD Access](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad)
+  - [AD Access](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad)
 
 - [x] __install and use Azure Storage Explorer__
 
-[Storage Explorer](https://docs.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=windows)
+  - [Storage Explorer](https://docs.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=windows)
 
 - [x] __manage access keys__
 
-[Storage Access Keys](https://docs.microsoft.com/en-gb/rest/api/storageservices/authorize-with-shared-key)
+  - [Storage Access Keys](https://docs.microsoft.com/en-gb/rest/api/storageservices/authorize-with-shared-key)
 
 - [x] __monitor activity log by using Azure Monitor logs__
 
-[Activity Log](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-logs-overview)
+  - [Activity Log](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-logs-overview)
 
 - [x] __implement Azure storage replication  Pending__
 
-[Storage replication and redundancy](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy)
+  - [Storage replication and redundancy](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy)
 
 - [x] __implement Azure storage account failover  Pending__
 
-[Storage account failover](https://docs.microsoft.com/en-us/azure/storage/common/storage-disaster-recovery-guidance)
+  - [Storage account failover](https://docs.microsoft.com/en-us/azure/storage/common/storage-disaster-recovery-guidance)
 
 ## Create and configure a Virtual Machine (VM) for Windows and Linux
 
@@ -100,35 +100,35 @@
 
 - [x] __configure high availability__
 
-- [Linux High Availability](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/availability)
+  - [Linux High Availability](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/availability)
 
-- [Windows High Availability](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/availability)
+  - [Windows High Availability](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/availability)
 
 - [x] __configure monitoring, networking, storage, and virtual machine size__
 
-- [Monitoring Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/monitor)
+  - [Monitoring Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/monitor)
 
-- [Monitoring Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/monitor)
+  - [Monitoring Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/monitor)
 
-- [Networking Linux](https:/docs.microsoft.com/en-us/azure/virtual-machines/linux/network-overview)
+  - [Networking Linux](https:/docs.microsoft.com/en-us/azure/virtual-machines/linux/network-overview)
 
 - [Networking Windows](https:/docs.microsoft.com/en-us/azure/virtual-machines/windows/network-overview)
 
-- [Storage Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/managed-disks-overview)
+  - [Storage Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/managed-disks-overview)
 
-- [Storage Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview)
+  - [Storage Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview)
 
-- [VM Sizes Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes)
+  - [VM Sizes Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes)
 
-- [VM Sizes Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes)
+  - [VM Sizes Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes)
 
 - [x] __implement dedicated hosts__
 
-[Dedicated Hosts](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/dedicated-hosts)
+  - [Dedicated Hosts](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/dedicated-hosts)
 
 - [x] __deploy and configure scale sets__
 
-[Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
+  - [Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
 
 ## Automate deployment of Virtual Machines (VMs)
 
@@ -138,11 +138,11 @@
 
 - [x] __modify Azure Resource Manager template__
 
-[ARM Templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/template-deployment-overview)
+  - [ARM Templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/template-deployment-overview)
 
 - [x] __configure location of new VMs__
 
-[Move VM to another region](https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-migrate)
+  - [Move VM to another region](https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-migrate)
 
 - [x] __configure VHD template__
 
@@ -150,35 +150,35 @@
 
 - [x] __deploy from template__
 
-[Deploy from portal](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-quickstart-create-templates-use-the-portal)
+  - [Deploy from portal](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-quickstart-create-templates-use-the-portal)
 
 - [x] __save a deployment as an Azure Resource Manager template__
 
-[Deployment as ARM](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy-portal)
+  - [Deployment as ARM](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy-portal)
 
 - [x] __deploy Windows and Linux VMs__
 
-- [Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/create-ssh-secured-vm-from-template)
+  - [Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/create-ssh-secured-vm-from-template)
 
-- [Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/ps-template)
+  - [Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/ps-template)
 
 ## Implement solutions that use virtual machines (VM)
 
 - [x] __provision VMs__
 
-[Linux VM](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal)
+  - [Linux VM](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal)
 
 - [x] __create Azure Resource Manager templates__
 
-[Create ARM](https://docs.microsoft.com/en-us/azure/azure-resource-manager/template-tutorial-create-first-template?tabs=azure-powershell)
+  - [Create ARM](https://docs.microsoft.com/en-us/azure/azure-resource-manager/template-tutorial-create-first-template?tabs=azure-powershell)
 
 - [x] __configure Azure Disk Encryption for VMs__
 
-[Encrypt disk on Linux VM](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-overview)
+  - [Encrypt disk on Linux VM](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-overview)
 
 - [x] __implement Azure Backup for VMs__
 
-[Backup Azure VM](https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction)
+  - [Backup Azure VM](https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction)
 
 ## Implement and manage virtual networking
 
@@ -186,45 +186,45 @@
 
 - [x] __configure private and public IP addresses__
 
-- [Private IP](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-static-private-ip-arm-pportal)
+  - [Private IP](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-static-private-ip-arm-pportal)
 
-- [Public IP](https://ocs.microsoft.com/en-us/azure/virtual-network/associate-public-ip-address-vm)
+  - [Public IP](https://ocs.microsoft.com/en-us/azure/virtual-network/associate-public-ip-address-vm)
 
 - [x] __network routes, network interface, subnets, and virtual network__
 
-- [Traffic Routing](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)
+  - [Traffic Routing](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)
 
-- [Network Interface](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface)
+  - [Network Interface](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface)
 
-- [Subnets](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-subnet)
+  - [Subnets](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-subnet)
 
-- [Virtual Network](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
+  - [Virtual Network](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
 
 - [x] __create and configure Network Security Groups__
 
-[Network Security Groups](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview)
+  - [Network Security Groups](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview)
 
 - [x] __create and configure Application Security Groups__
 
-[Application Security Groups](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#application-security-groups)
+  - [Application Security Groups](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#application-security-groups)
 
 ## Create connectivity between virtual networks
 
 - [x] __create and configure VNET peering__
 
-[VNet Peering](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview)
+  - [VNet Peering](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview)
 
 - [x] __create and configure VNET to VNET connections__
 
-[VNet to VNet connections](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)
+  - [VNet to VNet connections](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)
 
 - [x] __verify virtual network connectivity__
 
-[Check and Troubleshoot](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-connectivity-problem-between-vms)
+  - [Check and Troubleshoot](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-connectivity-problem-between-vms)
 
 - [x] __create virtual network gateway__
 
-[Create Gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/create-routebased-vpn-gateway-portal)
+  - [Create Gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/create-routebased-vpn-gateway-portal)
 
 ## Manage Azure Active Directory (AD)
 
@@ -232,46 +232,46 @@
 
 - [x] __add custom domains__
 
-[Add custom domain](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-custom-domain)
+  - [Add custom domain](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-custom-domain)
 
 - [x] __configure Azure AD Identity Protection, Azure AD Join__
 
-- [Identity Protection](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection)
+  - [Identity Protection](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection)
 
-- [AD Join](https://docs.microsoft.com/en-us/azure/active-directory/devices/azureadjoin-plan)
+  - [AD Join](https://docs.microsoft.com/en-us/azure/active-directory/devices/azureadjoin-plan)
 
 - [x] __configure self-service password reset__
 
-[Pw reset](https://docs.microsoft.com/en-us/azure/active-directory/authentication/quickstart-sspr)
+  - [Pw reset](https://docs.microsoft.com/en-us/azure/active-directory/authentication/quickstart-sspr)
 
 - [x] __implement conditional access policies__
 
-[Policies](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/plan-conditional-access)
+  - [Policies](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/plan-conditional-access)
 
 - [x] __manage multiple directories__
 
-[Multi-directories](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/licensing-directory-independence)
+  - [Multi-directories](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/licensing-directory-independence)
 
 - [x] __perform an access review__
 
-[Access Review](https://docs.microsoft.com/en-us/azure/active-directory/governance/access-reviews-overview)
+  - [Access Review](https://docs.microsoft.com/en-us/azure/active-directory/governance/access-reviews-overview)
 
 ## Implement and manage hybrid identities
 
 - [x] __install and configure Azure AD Connect__
 
-[AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect)
+  - [AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect)
 
 - [x] __configure federation and single sign-on__
 
-- [SSO](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/what-is-single-sign-on)
+  - [SSO](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/what-is-single-sign-on)
 
-- [Federation](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-fed)
+  - [Federation](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-fed)
 
 - [x] __manage and troubleshoot Azure AD Connect__
 
-[Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-health-operations)
+  - [Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-health-operations)
 
 - [x] __troubleshoot password sync and writeback__
 
-[Password writeback](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-sspr-writeback)
+  - [Password writeback](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-sspr-writeback)
