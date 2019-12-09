@@ -236,7 +236,9 @@
 
 ### configure Azure AD Identity Protection, Azure AD Join
 
-[Identity Protection](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection), [AD Join](https://docs.microsoft.com/en-us/azure/active-directory/devices/azureadjoin-plan)
+- [Identity Protection](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection)
+
+- [AD Join](https://docs.microsoft.com/en-us/azure/active-directory/devices/azureadjoin-plan)
 
 ### configure self-service password reset
 
