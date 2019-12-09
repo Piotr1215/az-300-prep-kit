@@ -2,55 +2,55 @@
 
 ## Analyze resource utilization and consumption
 
-- [Section Documentation on Azure Docs](https://docs.microsoft.com/en-gb/azure/azure-monitor/)
+[Section Documentation on Azure Docs](https://docs.microsoft.com/en-gb/azure/azure-monitor/)
 
 ### configure diagnostic settings on resources
 
-- [Diagnostic settings](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings)
+[Diagnostic settings](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings)
 
 ### create baseline for resources
 
-- [Lynda video](https://www.lynda.com/Azure-tutorials/Create-baseline-resources/782139/5010821-4.html)
+[Lynda video](https://www.lynda.com/Azure-tutorials/Create-baseline-resources/782139/5010821-4.html)
 
 ### create and test alerts
 
-- [Alerting on Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience)
+[Alerting on Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience)
 
 ### analyze alerts across subscription
 
-- [Alerts across subscriptions](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience)
+[Alerts across subscriptions](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience)
 
 ### analyze metrics across subscription
 
-- [Alerts across subscriptions](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience)
+[Alerts across subscriptions](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience)
 
 ### create action groups
 
-- [Create action group](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/action-groups#create-an-action-group-by-using-the-azure-portal)
+[Create action group](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/action-groups#create-an-action-group-by-using-the-azure-portal)
 
 ### monitor for unused resources
 
-- [Use Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/)
+[Use Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/)
 
 ### report on spend
 
-- [Using Cloudyn](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-manage-costs)
+[Using Cloudyn](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-manage-costs)
 
 ### utilize Log Search query functions
 
-- [Log Queries](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/get-started-queries)
+[Log Queries](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/get-started-queries)
 
 ### view alerts in Azure Monitor logs
 
-- [Create and vew alerts](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-log)
+[Create and vew alerts](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-log)
 
 ### visualize diagnostics data using Azure Monitor Workbooks
 
-- [Monitor Workbooks](https://docs.microsoft.com/en-us/azure/azure-monitor/app/usage-workbooks)
+[Monitor Workbooks](https://docs.microsoft.com/en-us/azure/azure-monitor/app/usage-workbooks)
 
 ### monitor spend
 
-- [Monitor spend](https://docs.microsoft.com/en-us/azure/cost-management/cost-mgt-alerts-monitor-usage-spending)
+[Monitor spend](https://docs.microsoft.com/en-us/azure/cost-management/cost-mgt-alerts-monitor-usage-spending)
 
 ## Create and configure storage accounts
 
@@ -60,43 +60,43 @@
 
 ### configure network access to the storage account
 
-- [Restrict network access to a resource](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources#restrict-network-access-to-a-resource)
+[Restrict network access to a resource](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources#restrict-network-access-to-a-resource)
 
 ### create and configure storage account
 
-- [Create storage account](https://docs.microsoft.com/en-us/azure/storage/common/storage-quickstart-create-account?tabs=azure-portal)
+[Create storage account](https://docs.microsoft.com/en-us/azure/storage/common/storage-quickstart-create-account?tabs=azure-portal)
 
 ### generate shared access signature
 
-- [Shared access signature](https://docs.microsoft.com/en-us/azure/storage/common/storage-sas-overview)
+[Shared access signature](https://docs.microsoft.com/en-us/azure/storage/common/storage-sas-overview)
 
 ### implement Azure AD authentication for storage
 
-- [AD Access](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad)
+[AD Access](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad)
 
 ### install and use Azure Storage Explorer
 
-- [Storage Explorer](https://docs.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=windows)
+[Storage Explorer](https://docs.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=windows)
 
 ### manage access keys
 
-- [Storage Access Keys](https://docs.microsoft.com/en-gb/rest/api/storageservices/authorize-with-shared-key)
+[Storage Access Keys](https://docs.microsoft.com/en-gb/rest/api/storageservices/authorize-with-shared-key)
 
 ### monitor activity log by using Azure Monitor logs
 
-- [Activity Log](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-logs-overview)
+[Activity Log](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-logs-overview)
 
 ### implement Azure storage replication  Pending
 
-- [Storage replication and redundancy](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy)
+[Storage replication and redundancy](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy)
 
 ### implement Azure storage account failover  Pending
 
-- [Storage account failover](https://docs.microsoft.com/en-us/azure/storage/common/storage-disaster-recovery-guidance)
+[Storage account failover](https://docs.microsoft.com/en-us/azure/storage/common/storage-disaster-recovery-guidance)
 
 ## Create and configure a Virtual Machine (VM) for Windows and Linux
 
-- [Section Documentation on Azure Docs](https://docs.microsoft.com/en-us/azure/virtual-machines/)
+[Section Documentation on Azure Docs](https://docs.microsoft.com/en-us/azure/virtual-machines/)
 
 ### configure high availability
 
@@ -124,11 +124,11 @@
 
 ### implement dedicated hosts
 
-- [Dedicated Hosts](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/dedicated-hosts)
+[Dedicated Hosts](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/dedicated-hosts)
 
 ### deploy and configure scale sets
 
-- [Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
+[Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
 
 ## Automate deployment of Virtual Machines (VMs)
 
@@ -138,23 +138,23 @@
 
 ### modify Azure Resource Manager template
 
-- [ARM Templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/template-deployment-overview)
+[ARM Templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/template-deployment-overview)
 
 ### configure location of new VMs
 
-- [Move VM to another region](https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-migrate)
+[Move VM to another region](https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-migrate)
 
 ### configure VHD template
 
-- [VHD Template](https://docs.microsoft.com/en-us/azure/marketplace/cloud-partner-portal/virtual-machine/cpp-deploy-json-template)
+[VHD Template](https://docs.microsoft.com/en-us/azure/marketplace/cloud-partner-portal/virtual-machine/cpp-deploy-json-template)
 
 ### deploy from template
 
-- [Deploy from portal](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-quickstart-create-templates-use-the-portal)
+[Deploy from portal](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-quickstart-create-templates-use-the-portal)
 
 ### save a deployment as an Azure Resource Manager template
 
-- [Deployment as ARM](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy-portal)
+[Deployment as ARM](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy-portal)
 
 ### deploy Windows and Linux VMs
 
@@ -166,23 +166,23 @@
 
 ### provision VMs
 
-- [Linux VM](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal)
+[Linux VM](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal)
 
 ### create Azure Resource Manager templates
 
-- [Create ARM](https://docs.microsoft.com/en-us/azure/azure-resource-manager/template-tutorial-create-first-template?tabs=azure-powershell)
+[Create ARM](https://docs.microsoft.com/en-us/azure/azure-resource-manager/template-tutorial-create-first-template?tabs=azure-powershell)
 
 ### configure Azure Disk Encryption for VMs
 
-- [Encrypt disk on Linux VM](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-overview)
+[Encrypt disk on Linux VM](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-overview)
 
 ### implement Azure Backup for VMs
 
-- [Backup Azure VM](https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction)
+[Backup Azure VM](https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction)
 
 ## Implement and manage virtual networking
 
-- [Labs](https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs?storyId=story://9922213a-f2ea-4ee4-a1b0-84330541e15d/)
+[Labs](https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs?storyId=story://9922213a-f2ea-4ee4-a1b0-84330541e15d/)
 
 ### configure private and public IP addresses
 
@@ -202,33 +202,33 @@
 
 ### create and configure Network Security Groups
 
-- [Network Security Groups](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview)
+[Network Security Groups](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview)
 
 ### create and configure Application Security Groups
 
-- [Application Security Groups](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#application-security-groups)
+[Application Security Groups](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#application-security-groups)
 
 ## Create connectivity between virtual networks
 
 ### create and configure VNET peering
 
-- [VNet Peering](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview)
+[VNet Peering](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview)
 
 ### create and configure VNET to VNET connections
 
-- [VNet to VNet connections](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)
+[VNet to VNet connections](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)
 
 ### verify virtual network connectivity
 
-- [Check and Troubleshoot](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-connectivity-problem-between-vms)
+[Check and Troubleshoot](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-connectivity-problem-between-vms)
 
 ### create virtual network gateway
 
-- [Create Gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/create-routebased-vpn-gateway-portal)
+[Create Gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/create-routebased-vpn-gateway-portal)
 
 ## Manage Azure Active Directory (AD)
 
-- [Section Documentation on Azure Docs](https://docs.microsoft.com/en-us/azure/active-directory/)
+[Section Documentation on Azure Docs](https://docs.microsoft.com/en-us/azure/active-directory/)
 
 ### add custom domains
 
@@ -236,29 +236,29 @@
 
 ### configure Azure AD Identity Protection, Azure AD Join
 
-- [Identity Protection](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection), [AD Join](https://docs.microsoft.com/en-us/azure/active-directory/devices/azureadjoin-plan)
+[Identity Protection](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection), [AD Join](https://docs.microsoft.com/en-us/azure/active-directory/devices/azureadjoin-plan)
 
 ### configure self-service password reset
 
-- [Pw reset](https://docs.microsoft.com/en-us/azure/active-directory/authentication/quickstart-sspr)
+[Pw reset](https://docs.microsoft.com/en-us/azure/active-directory/authentication/quickstart-sspr)
 
 ### implement conditional access policies
 
-- [Policies](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/plan-conditional-access)
+[Policies](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/plan-conditional-access)
 
 ### manage multiple directories
 
-- [Multi-directories](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/licensing-directory-independence)
+[Multi-directories](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/licensing-directory-independence)
 
 ### perform an access review
 
-- [Access Review](https://docs.microsoft.com/en-us/azure/active-directory/governance/access-reviews-overview)
+[Access Review](https://docs.microsoft.com/en-us/azure/active-directory/governance/access-reviews-overview)
 
 ## Implement and manage hybrid identities
 
 ### install and configure Azure AD Connect
 
-- [AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect)
+[AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect)
 
 ### configure federation and single sign-on
 
@@ -268,8 +268,8 @@
 
 ### manage and troubleshoot Azure AD Connect
 
-- [Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-health-operations)
+[Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-health-operations)
 
 ### troubleshoot password sync and writeback
 
-- [Password writeback](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-sspr-writeback)
+[Password writeback](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-sspr-writeback)
