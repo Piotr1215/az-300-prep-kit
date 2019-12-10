@@ -218,6 +218,8 @@
 
   - [VNet to VNet connections](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)
 
+  - [Point to Site connections](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-point-to-site-resource-manager-portal)
+
 - [x] __verify virtual network connectivity__
 
   - [Check and Troubleshoot](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-connectivity-problem-between-vms)
@@ -233,6 +235,8 @@
 - [x] __add custom domains__
 
   - [Add custom domain](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-custom-domain)
+
+  - When using TXT records, you need to configure the following at your registrar: TXT record (type), Alias (@), Destination (Microsoft generated code) and TTL (Time To Live standard)   . When using MX records, you need to configure the following: MX record (type), Alias (@), Destination (Microsoft generated code), TTL (Time to Live standard), Priority (Microsoft   auto generated)
 
 - [x] __configure Azure AD Identity Protection, Azure AD Join__
 
