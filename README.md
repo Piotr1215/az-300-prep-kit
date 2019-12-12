@@ -2,7 +2,7 @@
 
 <img src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="Exam badge" width="200"/>
 
-I recentpy passed [Exam: AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/en-gb/learn/certifications/exams/az-300) and this repo is was my way of preparing for the exam
+I recently passed [Exam: AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/en-gb/learn/certifications/exams/az-300) and this repo is was my way of preparing for the exam
 This exam is one of two exams to earn **Microsoft Certified: Azure Solutions Architect Expert** certification.
 
 You can clone this repo and mark your progress. If you want use this repo as a starter for your learning process you will need to reset the state of checkboxes. Currently most are marked as done, but you can easily do search and replace in your editor of choice (search for \[x] and replace with [ ], notice there is space between empty brackets).
