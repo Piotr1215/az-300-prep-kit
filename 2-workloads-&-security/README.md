@@ -1,4 +1,4 @@
-# Implement workloads and security (20-25%)
+# Implement workloads and security (25-30%)
 
 ## Migrate servers to Azure
 

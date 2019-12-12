@@ -1,4 +1,4 @@
-# Deploy and configure infrastructure (25-30%)
+# Deploy and configure infrastructure (40-45%)
 
 ## Analyze resource utilization and consumption
 
@@ -32,6 +32,10 @@
 
   - [Use Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/)
 
+- [x] __monitor spend__
+
+  - [Monitor spend](https://docs.microsoft.com/en-us/azure/cost-management/cost-mgt-alerts-monitor-usage-spending)
+
 - [x] __report on spend__
 
   - [Using Cloudyn](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-manage-costs)
@@ -47,10 +51,6 @@
 - [x] __visualize diagnostics data using Azure Monitor Workbooks__
 
   - [Monitor Workbooks](https://docs.microsoft.com/en-us/azure/azure-monitor/app/usage-workbooks)
-
-- [x] __monitor spend__
-
-  - [Monitor spend](https://docs.microsoft.com/en-us/azure/cost-management/cost-mgt-alerts-monitor-usage-spending)
 
 ## Create and configure storage accounts
 
@@ -86,11 +86,11 @@
 
   - [Activity Log](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-logs-overview)
 
-- [x] __implement Azure storage replication  Pending__
+- [x] __implement Azure storage replication__
 
   - [Storage replication and redundancy](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy)
 
-- [x] __implement Azure storage account failover  Pending__
+- [x] __implement Azure storage account failover__
 
   - [Storage account failover](https://docs.microsoft.com/en-us/azure/storage/common/storage-disaster-recovery-guidance)
 

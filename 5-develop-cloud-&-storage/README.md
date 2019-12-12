@@ -1,4 +1,4 @@
-# Develop for the cloud and for Azure storage (20-25%)
+# Develop for the cloud and for Azure storage (15-20%)
 
 ## Develop solutions that use Cosmos DB storage
 

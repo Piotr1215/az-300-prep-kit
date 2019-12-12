@@ -5,24 +5,29 @@
 This repo is my way of preparing for az-300 exam which is part of
 **Microsoft Certified: Azure Solutions Architect Expert** certification.
 
-Feel free to fork or submit PR.
+Feel free to fork or submit PR, but please stick to the format.
 
 ## Content & Learning Progress
 
-Each section of the exam material has its own README file linked below with links to documentation, labs and other useful info.
+Exam curriculum is based on material update from __December 4, 2019.__. See below announcement from exam page
+
+> Exam AZ-300: Microsoft Azure Architect Technologies
+> The content of this exam was updated on __December 4, 2019.__ Please download the Skills measured document below to see what changed.
+
+Each section of the exam material has its own README file linked below with links to Azure documentation, Plularsight videos (free), labs and other useful info.
 There is also [Exercises folder](/Exercises) with a few scripts (mostly Azure CLI) to deploy resources on Azure quicker.
 
-You can clone/fork this repo and mark mark your progress.
+You can clone/fork this repo and mark mark your progress. If you want to clone this repo and use as started for your learning process, you will need to reset the state of checkmarks. Currently all is marked as done, but you can easily do search and replace in your editor of choice (search for \[x] and replace with [ ], notice there is space between empty brackets).
 
-* [x] [Deploy and configure infrastructure (25-30%)](/1-infrastructure/README.md)
+* [x] [Deploy and configure infrastructure (40-45%)](/1-infrastructure/README.md)
 
-* [x] [Implement workloads and security (20-25%)](/2-workloads-&-security/README.md)
+* [x] [Implement workloads and security (25-30%)](/2-workloads-&-security/README.md)
 
 * [x] [Create and deploy apps (5-10%)](/3-create-&-deploy-apps/README.md)
 
-* [ ] [Implement authentication and secure data (5-10%)](/4-authentication-&-security/README.md)
+* [x] [Implement authentication and secure data (5-10%)](/4-authentication-&-security/README.md)
 
-* [ ] [Develop for the cloud and for Azure storage (20-25%)](/5-develop-cloud-&-storage/README.md)
+* [x] [Develop for the cloud and for Azure storage (15-20%)](/5-develop-cloud-&-storage/README.md)
 
 ## Resources
 
@@ -69,6 +74,10 @@ Az-300 is focusing on practical usecases of Azure technologies. Exam has followi
 * Use `powershell`, get help on commands and understand the order of command-lets (first create resource group, etc)
 
 ### #3: Preview features are NOT included in the exam curriculum
+
+Preview features are not included, but you should keep an eye on the exam page and check for updates. For example, while I was preparing for the exam it has been updated and some preview features are now GA.
+
+The most significan change is increasing infrastructure related questions to almost **half** of the exam questions and reducing section dedicated for development in cloud. After the update the exam leans very heavily towards infrastructure questions.
 
 ### #4: Always answer all the questions. There is no penalty for wrong answers
 
