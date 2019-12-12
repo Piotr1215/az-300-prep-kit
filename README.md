@@ -9,7 +9,21 @@ Feel free to fork or submit PR, but please stick to the format.
 
 ## Content & Learning Progress
 
-Exam curriculum is based on material update from __December 4, 2019.__. See below announcement from exam page
+Exam curriculum is based on material update from __December 4, 2019.__
+
+The most significan change is increasing infrastructure related questions to almost **half** of the exam questions and reducing section dedicated for development in cloud. After the update the exam leans very heavily towards infrastructure and workloads (networking, load balancing, backup&migration, serverless, storage accounts, VMs, infrastructure as code, active directory, MFA, RBAC).
+
+To put this in perspective, here is a random distribtion of questions based on weighted percentages (assuming 60 questions):
+
+| Area | Number of Questions | Percentage |
+| ---  | ---                 | ---        |
+| Deploy and configure infrastructure | 23 | 38,33% |
+| Implement workloads and security | 18 | 30,00% |
+| Create and deploy apps | 6 | 10,00% |
+| Implement authentication and secure data | 4 | 6,67% |
+| Develop for the cloud and for Azure storage | 9 | 15,00%
+
+See below announcement from exam page
 
 > Exam AZ-300: Microsoft Azure Architect Technologies
 > The content of this exam was updated on __December 4, 2019.__ Please download the Skills measured document below to see what changed.
@@ -76,8 +90,6 @@ Az-300 is focusing on practical usecases of Azure technologies. Exam has followi
 ### #3: Preview features are NOT included in the exam curriculum
 
 Preview features are not included, but you should keep an eye on the exam page and check for updates. For example, while I was preparing for the exam it has been updated and some preview features are now GA.
-
-The most significan change is increasing infrastructure related questions to almost **half** of the exam questions and reducing section dedicated for development in cloud. After the update the exam leans very heavily towards infrastructure questions.
 
 ### #4: Always answer all the questions. There is no penalty for wrong answers
 
