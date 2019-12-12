@@ -17,7 +17,7 @@ Exam curriculum is based on material update from __December 4, 2019.__. See belo
 Each section of the exam material has its own README file linked below with links to Azure documentation, Plularsight videos (free), labs and other useful info.
 There is also [Exercises folder](/Exercises) with a few scripts (mostly Azure CLI) to deploy resources on Azure quicker.
 
-You can clone/fork this repo and mark mark your progress. If you want to clone this repo and use as started for your learning process, you will need to reset the state of checkmarks. Currently all is marked as done, but you can easily do search and replace in your editor of choice (search for \[x] and replace with [ ], notice there is space between empty brackets).
+You can clone this repo and mark your progress. If you want use this repo as a started for your learning process you will need to reset the state of checkboxes. Currently all is marked as done, but you can easily do search and replace in your editor of choice (search for \[x] and replace with [ ], notice there is space between empty brackets).
 
 * [x] [Deploy and configure infrastructure (40-45%)](/1-infrastructure/README.md)
 
@@ -87,7 +87,9 @@ The most significan change is increasing infrastructure related questions to alm
 
 * [Exam with retake and practice test](https://eu1.mindhub.com/microsoft-exam-replay-with-practice-test-mcp-exam/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink)
 
-### #6: Practice key components using Azure portal, there will be practice tests
+### #6: Practice key components using Azure Portal, there will be practice tests
+
+You need to be very familiar with Azure Portal, know how to search for resources and create them quickly. Make use of tooltips (usually under small "?" icon), they often explain details you will need to finish the lab in case you don't remember.
 
 * [Create free account on Azure and practice!](https://azure.microsoft.com/en-us/free/)
 
@@ -96,7 +98,7 @@ The most significan change is increasing infrastructure related questions to alm
 When I was confident I have enought preparation and understand the material, it was time to **schedule the exam**.
 Scheduling exam was important to set a date in calendar and make sure I stay focus and plan my time well.
 
-**10 days** from exam I scheduled final preparation plan focusing on each section as follows:
+**10 days** from exam I scheduled final preparation plan focusing on each section as below. Each time I would use the links, refresh core info, do a lab and most importantly go to Azure Portal and try to perform given task myself. I also used mindmaps and OneNote to keep the learning material organized.
 
 * Days 1-3: Deploy and configure infrastructure (40-45%)
 
