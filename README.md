@@ -16,7 +16,7 @@ The most significan change is increasing infrastructure related questions to alm
 To put this in perspective, here is a random distribtion of questions based on weighted percentages (assuming 60 questions):
 
 | Area | Number of Questions | Percentage |
-| ---  | ---                 | ---        |
+| ---  | : ---                 | ---        |
 | Deploy and configure infrastructure | 23 | 38,33% |
 | Implement workloads and security | 18 | 30,00% |
 | Create and deploy apps | 6 | 10,00% |
