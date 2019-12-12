@@ -17,11 +17,11 @@ To put this in perspective, here is a random distribtion of questions based on w
 
 | Area | Number of Questions | Percentage |
 | ---  | :---:                 | ---        |
-| Deploy and configure infrastructure | 23 | 38,33% |
-| Implement workloads and security | 18 | 30,00% |
+| Deploy and configure infrastructure | 26 | 41,67% |
+| Implement workloads and security | 16 | 26,67% |
 | Create and deploy apps | 6 | 10,00% |
-| Implement authentication and secure data | 4 | 6,67% |
-| Develop for the cloud and for Azure storage | 9 | 15,00%
+| Implement authentication and secure data | 6 | 10,00% |
+| Develop for the cloud and for Azure storage | 7 | 11,67%
 
 See below announcement from exam page
 
