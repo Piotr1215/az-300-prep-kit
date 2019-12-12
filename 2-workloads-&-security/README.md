@@ -98,7 +98,7 @@
 
 - [x] __manage on-premises connectivity with Azure__
 
-(TODO) add link
+  - TODO: Add Link
 
 ## Implement Multi-Factor Authentication (MFA)
 

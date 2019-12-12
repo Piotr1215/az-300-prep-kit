@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Setup variables
-group='deletemeresourcegrppls1'
-vm='deleteme-vm2'
+group='deleteme-vnet'
+vm='deleteme-vm'
 
 groupExists=$(az group exists -n $group)
 
