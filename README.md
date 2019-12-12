@@ -98,17 +98,17 @@ Scheduling exam was important to set a date in calendar and make sure I stay foc
 
 **10 days** from exam I scheduled final preparation plan focusing on each section as follows:
 
-* Days 1-2: Deploy and configure infrastructure (25-30%)
+* Days 1-3: Deploy and configure infrastructure (40-45%)
 
-* Days 3-4: Implement workloads and security (20-25%)
+* Days 4-5: Implement workloads and security (25-35%)
 
-* Day 5: Create and deploy apps (5-10%)
+* Day 6: Create and deploy apps (5-10%)
 
-* Day 6: Implement authentication and secure data (5-10%)
+* Day 7: Implement authentication and secure data (5-10%)
 
-* Days 7-8: Develop for the cloud and for Azure storage (20-25%)
+* Day 8: Develop for the cloud and for Azure storage (15-20%)
 
-* Day 9: Microsoft Azure AZ-300 Architecture Technologies Practice Exams (bought cheap on Udemy during Cyber Week)
+* Day 9: Practice exams and mock questions, final review. Please **don't** use so called braindumps. I used "Microsoft Azure AZ-300 Architecture Technologies Practice Exams" (bought cheap on Udemy during Cyber Week)
 
 * Day 10: EXAM!
 
