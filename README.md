@@ -7,7 +7,7 @@ This exam is one of two to earn **Microsoft Certified: Azure Solutions Architect
 
 You can clone this repo and mark your progress. If you want use this repo as a starter for your learning process you will need to reset the state of checkboxes. Currently most are marked as done, but you can easily do search and replace in your editor of choice (search for \[x] and replace with [ ], notice there is space between empty brackets).
 
-Feel free to fork or submit PR, but please stick to the format. Please make sure to read [contributing guidelines](CONTRIBUTION.md)
+Feel free to fork or submit PR, but please stick to the format. Please make sure to read [contributing guidelines](CONTRIBUTING.md)
 
 ## Content & Learning Progress
 
