@@ -3,7 +3,6 @@
 ## Create vm
 
 ``` bash
-az group create -n deleteme-rg -l westeurope
 az group deployment create --resource-group deleteme-rg --template-file './template.json' --parameters './parameters.json'
 ```
 
