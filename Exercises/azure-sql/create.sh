@@ -1,3 +1,5 @@
+#!/bin/zsh
+
 read "projectName?Enter a project name that is used for generating resource names: "
 read "adminUser?Enter the SQL server administrator username: "
 read "adminPassword?Enter the SQl server administrator password: "
