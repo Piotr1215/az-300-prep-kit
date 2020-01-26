@@ -1,6 +1,8 @@
-# Global variables
-export group=aks-lab
-export region=westeurope
+#!/bin/bash
+
+# variables
+group=aks-lab
+region=westeurope
 
 # Local variables
 CLUSTER_RESOURCES_GROUP='MC_'$group'_aks-cluster_'$region

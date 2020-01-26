@@ -13,7 +13,7 @@ az group create -n $group -l $region
 # Get latest version of k8s for your region
 version=$(az aks get-versions -l "$region" --query 'orchestrators[-1].orchestratorVersion' -o tsv)
 
-# Create AKS cluster on your subscription, without using service principal
+# Create AKS cluster on your subscription, without using service principal and with autoscaler
 az aks create -g $group -n aks-cluster -l $region \
     --node-count $NODE_COUNT \
     --node-vm-size Standard_DS2_v2 \
@@ -21,7 +21,8 @@ az aks create -g $group -n aks-cluster -l $region \
     --vm-set-type VirtualMachineScaleSets \
     --enable-cluster-autoscaler \
     --min-count 1 \
-    --max-count 3
+    --max-count 3 \
+    --tags 'can-delete=yes' 'owner=piotrzan'
     --kubernetes-version "$version" --verbose
 
 # Set cluster in kubeconfig
