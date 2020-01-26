@@ -31,18 +31,27 @@ az aks create -g $group -n aks-cluster -l $region \
 
 # Set cluster in kubeconfig
 echo '[STEP 3] Setting up connection to cluster for Azure Shell'
-az aks get-credentials -g $group -n aks-cluster
+az aks get-credentials -g $group -n aks-cluster --overwrite-existing
 
 # Get some aliases
 echo '[STEP 4] Creating useful aliases'
 
 # Instead of typing kubectl all the time, abbreviate it to just “k”
 alias k=kubectl
+
 # Check what is running on the cluster
-alias kdump=’kubectl get all — all-namespaces’
+alias kdump='kubectl get all --all-namespaces'
 
 # Display helpful info for creating k8s resources imperatively
-alias krun=’k run -h | grep “# “ -A2'
+alias krun='k run -h | grep "# " -A2'
 
 # Quickly spin up busybox pod for diagnostic purposes
-alias kdiag=’kubectl run -it — rm debug — image=busybox — restart=Never — sh’
+alias kdiag='kubectl run -it --rm debug --image=busybox --restart=Never -- sh'
+
+echo '[STEP 5] Setup auto-completion'
+
+source <(kubectl completion bash) # setup autocomplete in bash into the current shell, bash-completion package should be installed first.
+echo "source <(kubectl completion bash)" >> ~/.bashrc # add autocomplete permanently to your bash shell.
+
+complete -F __start_kubectl k
+echo 'complete -F __start_kubectl k' >> ~/.bashrc
