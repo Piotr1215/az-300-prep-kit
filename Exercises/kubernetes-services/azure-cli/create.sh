@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -x
+
 # Setup variables
 group=aks-lab
 region=westeurope
