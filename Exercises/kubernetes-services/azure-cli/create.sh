@@ -22,7 +22,7 @@ az aks create -g $group -n aks-cluster -l $region \
     --enable-cluster-autoscaler \
     --min-count 1 \
     --max-count 3 \
-    --tags 'can-delete=yes' 'owner=piotrzan'
+    --tags 'can-delete=yes' 'owner=piotrzan' \
     --kubernetes-version "$version" --verbose
 
 # Set cluster in kubeconfig
