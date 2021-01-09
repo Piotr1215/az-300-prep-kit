@@ -143,3 +143,7 @@ Labs are not that difficult, but once or twice remote sessions hanged on me and 
 At the end what helped me pass was experience with Azure and trying everything on my own in Azure Portal, creating and solving problems and experimenting with virtual network and vms.
 
 ### **Good luck :)**
+
+## Consider Contributing
+
+[Contribute to the reposotiry](CONTRIBUTING.md)
