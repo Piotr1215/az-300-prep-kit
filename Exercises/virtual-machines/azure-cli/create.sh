@@ -3,7 +3,7 @@
 # Provide initial variables
 read -p 'Enter resource group name: ' group
 read -p 'Enter virtual machine name: ' vm
-read -p 'Enter location for the resources:' location
+read -p 'Enter location for the resources: ' location
 
 # Check if variables are provided and exit if not
 if [ -z "$group" ] || [ -z "$vm" ] || [ -z "$location" ]; then
