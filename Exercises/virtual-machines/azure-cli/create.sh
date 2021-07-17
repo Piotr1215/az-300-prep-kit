@@ -33,7 +33,7 @@ az vm create \
     --custom-data sample-webapp.sh \
     --generate-ssh-keys
 
-# Open port 8000 to expose sample webapp created using clouod init script
+# Open port 8000 to expose sample webapp created using cloud-init script
 az vm open-port --port 8000 --resource-group "$group" --name "$vm"
 
 # Obtain public IP to connect to VM
