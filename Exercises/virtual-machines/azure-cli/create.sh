@@ -1,32 +1,44 @@
 #!/bin/bash
 
-# Setup variables
-group='deleteme-vnet'
-vm='deleteme-vm'
+# Provide initial variables
+read -p 'Enter resource group name: ' group
+read -p 'Enter virtual machine name: ' vm
+read -p 'Enter location for the resources:' location
 
-groupExists=$(az group exists -n $group)
+# Check if variables are provided and exit if not
+if [ -z "$group" ] || [ -z "$vm" ] || [ -z "$location" ]; then
+    echo "Provide resource group vm names as well as prefered location"
+    exit 0
+fi
 
-if $groupExists ; then
-    echo 'Group' $group already exists
+# Check if rg already exists
+groupExists=$(az group exists -n "$group")
+
+if $groupExists; then
+    echo "Resource group $group already exists"
+    exit 0
 else
-    az group create --name $group --location westeurope --output json
-    echo 'success'
+    az group create --name "$group" --location "$location" --output json
+    echo "Resource group $group succesfully created in $location"
 fi
 
 # Create linux ubuntu VM
+echo "Creating vm $vm in resource group $group"
+
 az vm create \
-  --resource-group $group \
-  --name $vm \
-  --image UbuntuLTS \
-  --admin-username azureuser \
-  --generate-ssh-keys
+    --resource-group "$group" \
+    --name "$vm" \
+    --image UbuntuLTS \
+    --admin-username azureuser \
+    --custom-data sample-webapp.sh \
+    --generate-ssh-keys
 
-# Open port 80 for web traffic
-az vm open-port --port 80 --resource-group $group --name $vm
+# Open port 8000 to expose sample webapp created using clouod init script
+az vm open-port --port 8000 --resource-group "$group" --name "$vm"
 
-ip=$(az vm list-ip-addresses -g $group -n $vm --query "[].virtualMachine.network.publicIpAddresses[*].ipAddress" -o tsv)
-echo 'Puclic is is:' $ip
-# Install nginx
-# ssh azureuser@$ip
-# sudo apt-get -y update
-# sudo apt-get -y install nginx
+# Obtain public IP to connect to VM
+ip=$(az vm list-ip-addresses -g "$group" -n "$vm" --query "[].virtualMachine.network.publicIpAddresses[*].ipAddress" -o tsv)
+
+echo "VM succefully created, ssh keys have been generated"
+echo "To login to vm run: ssh azureuser@$ip"
+echo "To remove resource group with vm run: az group delete --name $group"
